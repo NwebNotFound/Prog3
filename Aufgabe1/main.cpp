@@ -1,6 +1,7 @@
 #include "main.h"
 
 int main() {
-    hello();
+    std::cout << "Unsere Gruppe:\n\n";
+    print_info_nils_weberruss();
     return 0;
 }
