@@ -4,7 +4,8 @@ project(Aufgabe1 LANGUAGES CXX)
 
 add_executable(Aufgabe1
     main.cpp
-    TeilAufgabe/Nils_weberruß.cpp
+    1/nils_weberruss.cpp
+    2/analyze.cpp
 )
 
 target_compile_features(Aufgabe1 PRIVATE cxx_std_17)
