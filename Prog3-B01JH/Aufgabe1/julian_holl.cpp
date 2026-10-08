@@ -2,5 +2,5 @@
 
 void julian_holl()
 {
-    std::cout << "Julian Holl/n";
+    std::cout << "Julian Holl\n";
 }
